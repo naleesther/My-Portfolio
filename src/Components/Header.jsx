@@ -1,6 +1,5 @@
 import bulb from "../assets/bulb-pic.png";
 import { useState,useEffect } from "react";
-import { Link } from "react-router-dom";
 
 function Header() {
   const titles = [
